@@ -35,7 +35,6 @@ O objetivo principal é oferecer uma introdução ao desenvolvimento de jogos no
 
 ### Clonar o Repositório
 
-```bash
 git clone https://github.com/NatanMendesDF/Project-Jogo-Mario.git
 
 Abrir o Arquivo
@@ -43,26 +42,31 @@ Abrir o Arquivo
 cd Project-Jogo-Mario
 2. Abra o arquivo index.html no navegador para iniciar o jogo.
 
-📷 Demonstração
-<img src="assets/tela-jogo-mario.png" alt="Demonstração do Jogo Mario" width="800">
+---
 
-📌 Próximos Passos
+## 📷 Demonstração
+<img src="tela-jogo-mario.png" alt="Demonstração do Jogo Mario" width="800">
+
+---
+
+## 📌 Próximos Passos
 Funcionalidades que podem ser implementadas no futuro:
+-> Adicionar inimigos no cenário.
+-> Criar fases diferentes com níveis de dificuldade.
+-> Sistema de pontuação e coleta de itens.
 
-Adicionar inimigos no cenário.
-Criar fases diferentes com níveis de dificuldade.
-Sistema de pontuação e coleta de itens.
+---
 
-🤝 Contribuição
+## 🤝 Contribuição
 Contribuições são bem-vindas! Para contribuir:
 1. Faça um fork do repositório.
 2. Crie um branch para sua feature:
 git checkout -b minha-feature
 3. Faça um pull request para análise.
 
-📧 Contato
+## 📧 Contato
 Se você gostou deste projeto ou tem sugestões, entre em contato:
 
 Email: natanmendes.developer@gmail.com
-LinkedIn: Natan Mendes
+LinkedIn: Nataniel Mendes
 GitHub: NatanMendesDF
